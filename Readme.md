@@ -1,6 +1,9 @@
-What does HTML stand for?
-What can you do with HTML?
-What is the syntax for HTML Element?
+What does HTML stand for? HTML stands for Hyper Text Markup Language.
+
+What can you do with HTML?Structuring web pages. With tags and elements, we can define the headings, paragraphs, and other contents of a web page
+
+What is the syntax for HTML Element? opening tag + content + closing tag.
+
 3 Main Parts Of An Element
 Boilerplate (Basic HTML Structure)
 Know how to create boilerplate by ourselves
@@ -22,4 +25,3 @@ Em, Strong, Div (Generic Block Container), Span (Generic Inline Container)
 Understand the semantics of HTML
 Knowing that you accomplish the same thing with many types of elements but being able to distinguish when to use certain elements and when not
 Know how to use resources like MDN and W3Schools to support learning experience
-# index.html
