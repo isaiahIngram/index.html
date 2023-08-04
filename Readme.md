@@ -1,27 +1,31 @@
-What does HTML stand for? HTML stands for Hyper Text Markup Language.
-
-What can you do with HTML?Structuring web pages. With tags and elements, we can define the headings, paragraphs, and other contents of a web page
-
-What is the syntax for HTML Element? opening tag + content + closing tag.
-
-3 Main Parts Of An Element
-Boilerplate (Basic HTML Structure)
-Know how to create boilerplate by ourselves
-Know what nesting is and know how to indent
-Understand the family relationship of elements
-Parent, Child, Siblings, Ancestor, Descendants
-Know what comments are and how to comment in HTMLKnow what HTML Attributes are and how to utilize them
-Know how to utilize “Text Elements” 
-Headings, Paragraphs and Hyperlinks (anchors)
-Know how to point hyperlinks to internal and external pages
-Know how to utilize “List Elements” 
-Know how to utilize “Media Elements”
-Know how to utilize images
-Know how to access local images and utilize file paths
-Know how to utilize “Layout Elements”
-Header, Nav, Main, Section, Article, Footer
-Be familiar with additional elements such as:
-Em, Strong, Div (Generic Block Container), Span (Generic Inline Container)
-Understand the semantics of HTML
-Knowing that you accomplish the same thing with many types of elements but being able to distinguish when to use certain elements and when not
-Know how to use resources like MDN and W3Schools to support learning experience
+# What does CSS stand for?
+# How is CSS used within a webpage?
+# Can CSS work without HTML?
+# What does CSS consist of?
+# Is the goal to learn all of the CSS properties? If not, what is the goal for learning CSS?
+# What is the syntax for CSS?
+# What is a selector?
+# What are Declaration(s)?
+# What is a Declaration Property?
+# What is a Declaration Value?
+# What is a Declaration Block?
+# What are the 3 ways to connect CSS to HTML?
+# What is inline CSS?
+# What is internal CSS?
+# What is external CSS?
+# Which CSS approach uses an attribute to add style
+# Which of the 3 ways for adding CSS is the best approach and why? Which is the worst, and why?
+# Should CSS code be contained within an HTML file? Why or Why not?
+# Do we use the link element to hyperlink to another page?
+# Which CSS approach utilizes the link element?
+# What does the font-size property do? 
+# What does the font-family property do?
+# What does the text-transform property do?
+# What does the font-style property do?
+# What does the line-height property do?
+# What are CSS units and how are they different? (ex. px, em, %, etc.)
+# How are Classes & ID’s utilized in CSS?
+# What is the difference between Classes & ID’s?
+# What symbol is used to grab HTML ID’s in CSS?
+# What symbol is used to grab HTML classes in CSS?
+# Style.css
